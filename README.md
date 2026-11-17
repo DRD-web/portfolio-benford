@@ -37,5 +37,5 @@ Python 3.13.
 ## Structure
 
     data/        données sources (non versionnées)
-    notebooks/   notebooks/   bacs à sable locaux (non versionnés)
+    notebooks/   bacs à sable locaux (non versionnés)
     src/         code réutilisable
