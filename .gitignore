@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+*.duckdb.wal
+data/*
+!data/.gitkeep
+*.parquet
+*.csv
+.env
+notebooks/
